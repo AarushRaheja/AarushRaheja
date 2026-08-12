@@ -1,22 +1,28 @@
-## Hi, I'm Aarush 👋
+### Hi, I'm Aarush
 
-Incoming **Data Science & Statistics** student at **Carnegie Mellon University** (Fall 2026). I build machine learning and data-driven tools — mostly in Python — across healthcare, NLP, computer vision, and signal processing.
+Incoming CS/Data Science student at Carnegie Mellon (Fall 2026). Mostly Python and PyTorch. I like ML problems that touch real data, especially in healthcare and signal processing.
 
-### What I work on
-- Machine learning & data science: classification, forecasting, and computer vision
-- Applied research: published work on Type 2 diabetes prediction (RARS / NHSJS)
-- Practical AI tools: chatbots, document analysis, and forecasting systems
+### What I'm into right now
 
-### Selected projects
-- **Type 2 Diabetes Prediction** — ML models across 1,000+ patient records with feature-importance analysis; published in RARS and NHSJS.
-- **Pneumonia Detection (CNN)** — Led a 4-person team building a CNN with data augmentation on medical images; placed 2nd of 16 teams for accuracy (Inspirit AI).
-- **AI Resume Analysis Chatbot** — FastAPI and a locally-hosted LLM with OCR fallback and privacy-preserving local inference (Amdocs CSR).
-- **Fuel Price Forecasting** — Time-series forecasting of Indian fuel prices using random forests and neural networks (AIYA @ NTU).
-- **Fourier Voice Reconstruction** — Modeled human voice signals via Fourier decomposition with residual and error analysis.
+- Classical and deep learning on tabular + medical data
+- Signal processing (Fourier, voice)
+- Retrieval and RAG for document search
+- Making things other people can actually run
 
-### Tools & tech
-Python · scikit-learn · deep learning (CNNs) · FastAPI · NLP · bioinformatics (BLAST) · JavaScript
+### Stack I actually use
 
-### Connect
-- LinkedIn: https://www.linkedin.com/in/aarush-raheja-23280a3a1/
+Python, PyTorch, scikit-learn, pandas, NumPy, FastAPI, some SQL and JavaScript. Docker when a project needs it. Working through Hugging Face and LangChain right now.
+
+### A few projects
+
+- **[Type 2 Diabetes Prediction](https://github.com/AarushRaheja/Diabetes-Prediction-Model)**: trained a few classifiers on 1,000+ patient records and wrote up the feature-importance analysis. Methodology got published in RARS and NHSJS.
+- **[Fourier Voice Reconstruction](https://github.com/AarushRaheja/fourier-voice-reconstruction)**: decomposed voice signals into their Fourier series and looked at how many harmonics you actually need before something still sounds like a voice.
+- **Pneumonia Detection (CNN)**: led a 4-person team at Inspirit AI; finished 2nd of 16 teams on test accuracy. Repo cleanup pending.
+- **Resume Analysis Chatbot (Amdocs CSR)**: FastAPI plus a locally hosted LLM with an OCR fallback, everything on-device for privacy. Repo cleanup pending.
+- **Fuel Price Forecasting (AIYA @ NTU)**: random forests vs a small neural net on Indian fuel-price time series.
+
+### Reach me
+
+- LinkedIn: [aarush-raheja](https://www.linkedin.com/in/aarush-raheja-23280a3a1/)
 - Email: aarushraheja396@gmail.com
+- Pune, India
