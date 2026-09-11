@@ -25,4 +25,4 @@ Python, PyTorch, scikit-learn, pandas, NumPy, FastAPI, some SQL and JavaScript. 
 
 - LinkedIn: [aarush-raheja](https://www.linkedin.com/in/aarush-raheja-23280a3a1/)
 - Email: aarushraheja396@gmail.com
-- Pune, India
+- Pittsburgh, Pennsylvania 
