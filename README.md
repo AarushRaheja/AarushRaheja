@@ -1,36 +1,5 @@
 ### Hi, I'm Aarush
 
-Incoming CS/Data Science student at Carnegie Mellon (Fall 2026). I build ML pipelines and full-stack tools that solve real problems, mostly in healthcare and information retrieval.
-
----
-
-#### What I work on
-
-**Medical ML**
-- Built a CNN from scratch in PyTorch for pneumonia detection on chest X-rays, achieving ~90% accuracy with class-weighted loss and cosine annealing
-- Trained and compared multiple sklearn classifiers (logistic regression, random forest, KNN, decision tree) on 100k+ patient records for diabetes prediction
-
-**Signal Processing**
-- Applied Fourier decomposition (DFT) to voice recordings to analyze and reconstruct signals from their frequency components
-
-**Applied Systems**
-- Developed a Django-based file management dashboard with user auth and media handling
-- Working on a RAG pipeline for SEC EDGAR filings using LangChain
-
----
-
-#### Stack
-
-Python, PyTorch, scikit-learn, pandas, NumPy, FastAPI, Django, SQL, JavaScript, Docker. Currently learning LangChain and Hugging Face.
-
----
-
-#### Find me
-
-- [LinkedIn](https://linkedin.com/in/aarushraheja)
-- aarushraheja396 at gmail
-### Hi, I'm Aarush
-
 Incoming CS/Data Science student at Carnegie Mellon (Fall 2026). Mostly Python and PyTorch. I like ML problems that touch real data, especially in healthcare and signal processing.
 
 ### What I'm into right now
@@ -48,7 +17,7 @@ Python, PyTorch, scikit-learn, pandas, NumPy, FastAPI, some SQL and JavaScript. 
 
 - **[Type 2 Diabetes Prediction](https://github.com/AarushRaheja/Diabetes-Prediction-Model)**: trained a few classifiers on 1,000+ patient records and wrote up the feature-importance analysis. Methodology got published in RARS and NHSJS.
 - **[Fourier Voice Reconstruction](https://github.com/AarushRaheja/fourier-voice-reconstruction)**: decomposed voice signals into their Fourier series and looked at how many harmonics you actually need before something still sounds like a voice.
-- **Pneumonia Detection (CNN)**: led a 4-person team at Inspirit AI; finished 2nd of 16 teams on test accuracy. Repo cleanup pending.
+- **[Pneumonia Detection (CNN)](https://github.com/AarushRaheja/pneumonia-detection-cnn)**: led a 4-person team at Inspirit AI; finished 2nd of 16 teams on test accuracy. Built from scratch in PyTorch with class-weighted loss and cosine annealing.
 - **Resume Analysis Chatbot (Amdocs CSR)**: FastAPI plus a locally hosted LLM with an OCR fallback, everything on-device for privacy. Repo cleanup pending.
 - **Fuel Price Forecasting (AIYA @ NTU)**: random forests vs a small neural net on Indian fuel-price time series.
 
